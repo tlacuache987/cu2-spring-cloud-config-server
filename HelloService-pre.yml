@@ -8,7 +8,7 @@ spring:
   application:
     name: HelloService
   profiles:
-    active: dev
+    active: pre
   
   # 1. Agregar dependencias para Spring Cloud Bus
   # 2. Agregar configuración para RabbitMQ
